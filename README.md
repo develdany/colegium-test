@@ -1,6 +1,11 @@
-# test-vue
+# Colegium Test
 
-## Project setup
+## Clone repository
+```
+git clone git@github.com:develdany/colegium-test.git
+```
+
+## Install depencies
 ```
 npm install
 ```
@@ -9,16 +14,3 @@ npm install
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
